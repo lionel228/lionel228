@@ -1,6 +1,6 @@
 				Resultats:
 
-1- 
+1- resultat de 1.c
 
 #include <stdlib.h>
 #include <signal.h>
@@ -102,8 +102,8 @@ int main(int argc, char *argv[]){
   fprintf(stderr, "le temps d'execution de tout les threads est %lds \n", count_time-1);
   return 0;
 
-
-3-  Implementation de la solution
+2- aucun resultat pour 2.c
+3-  Implementation de la solution 3.c
 
 #include <stdlib.h>
 #include <signal.h>
@@ -253,7 +253,7 @@ int main(int argc, char *argv[]){
 }
 
 
-4-  
+4-  resultats de 4.c et 4.1.c
 
 #include <stdlib.h>
 #include <signal.h>
