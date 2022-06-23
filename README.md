@@ -1,6 +1,6 @@
 				Resultats:
 				
-				NB: Mon rapport se trouve dans le dossier zippe.
+				NB: Mon rapport et mes codes se trouvent dans le dossier zippe.
 
 1- resultat de 1.c
 
